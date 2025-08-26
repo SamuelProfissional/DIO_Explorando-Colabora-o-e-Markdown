@@ -11,5 +11,5 @@ Desafio DIO - Explorando Colaboração e Markdown
 >Teste de citação - 1
 >>Teste de citação - 2
 *************************************************
-- [] Esta é uma CheckBox não marcada
+- [ ] Esta é uma CheckBox não marcada
 - [x] Este CheckBox está marcado
