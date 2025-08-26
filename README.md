@@ -4,7 +4,7 @@ Desafio DIO - Explorando Colaboração e Markdown
 
 
 
-<img src="https://e7.pngegg.com/pngimages/646/324/png-clipart-github-computer-icons-github-logo-monochrome-thumbnail.png" width="25px"> 
+<img src="https://e7.pngegg.com/pngimages/646/324/png-clipart-github-computer-icons-github-logo-monochrome-thumbnail.png" width="150px"> 
 
 
 -------------------------------------------------
